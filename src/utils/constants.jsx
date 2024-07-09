@@ -1,6 +1,8 @@
 import React from "react";
 
-import { AiFillHome, AiOutlineFlag } from "react-icons/ai";
+import { AiFillHome } from "react-icons/ai";
+
+import { AiOutlineFlag } from "react-icons/ai";
 import { MdLocalFireDepartment, MdLiveTv } from "react-icons/md";
 import { CgMusicNote } from "react-icons/cg";
 import { FiFilm } from "react-icons/fi";
