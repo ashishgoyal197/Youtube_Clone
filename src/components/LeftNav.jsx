@@ -28,8 +28,8 @@ export default function LeftNav() {
   return (
     // h-full
     <div
-      className={`md:block w-[240px] overflow-y-auto py-4 bg-black absolute md:relative z-10 translate-x-[-240px] md:translate-x-0 transition-all ${
-        mobileMenu ? "translate-x-0" : ""
+      className={`md:block w-[240px] overflow-y-auto py-4 bg-black absolute md:relative z-10  md:translate-x-0 transition-all ${
+        mobileMenu ? "translate-x-0" : "translate-x-[-240px]"
       }`}
     >
       <div className="flex flex-col px-5">

@@ -8,7 +8,7 @@ const options = {
     gl: "US",
   },
   headers: {
-    "x-rapidapi-key": "9e5dccb1eamsh66774f8083e2133p14efe4jsn533c4483566b",
+    "x-rapidapi-key": "95d87350a7msh597d91d327ebbbcp1253e0jsne16b4b92e351",
     "x-rapidapi-host": "youtube138.p.rapidapi.com",
   },
 };
