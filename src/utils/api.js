@@ -8,7 +8,7 @@ const options = {
     gl: "US",
   },
   headers: {
-    "x-rapidapi-key": import.meta.env.VITE_API_KEY,
+    "x-rapidapi-key": "9e5dccb1eamsh66774f8083e2133p14efe4jsn533c4483566b",
     "x-rapidapi-host": "youtube138.p.rapidapi.com",
   },
 };
